@@ -1,3 +1,6 @@
+LMMS 是商业程序的免费跨平台替代品，例如 FL Studio®，它允许您使用计算机制作音乐。这包括 旋律和节拍的创作，声音的合成和混合，以及 安排样本。您可以享受 MIDI 键盘的乐趣等等; 所有这些都在一个用户友好的现代界面中。
+
+
 # ![LMMS Logo](https://raw.githubusercontent.com/LMMS/artwork/master/Icon%20%26%20Mimetypes/lmms-64x64.svg) LMMS
 
 [![Build status](https://github.com/LMMS/lmms/actions/workflows/build.yml/badge.svg)](https://github.com/LMMS/lmms/actions/workflows/build.yml)
